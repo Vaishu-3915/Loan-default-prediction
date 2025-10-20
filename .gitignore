@@ -1,0 +1,41 @@
+# Jupyter Notebook files (keep local but don't commit)
+*.ipynb
+.ipynb_checkpoints/
+
+# Personal interview preparation files (keep local)
+README_INTERVIEW_GUIDE.md
+
+# Data files (keep local, too large for git)
+data/
+artifacts/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts and logs
+*.pkl
+*.joblib
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
