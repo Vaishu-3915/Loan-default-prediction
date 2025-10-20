@@ -1,6 +1,6 @@
 # Loan Default Prediction - Refactored Pipeline
 
-This project has been refactored from a monolithic Jupyter notebook into a modular Python pipeline with proper data chunking.
+This project builds and evaluates machine learning models to predict whether a borrower will default on a loan, using LendingClub historical loan data. It includes end-to-end steps from data preparation and feature engineering to training and evaluation, implemented as reproducible Python scripts.
 
 ## Problem Setting
 
